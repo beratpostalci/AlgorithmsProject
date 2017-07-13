@@ -8,3 +8,6 @@ B2 --> input size = 32737, input type = integers with decreasing order<br>
 
 My system specs provided in systemSpecs.txt<br>
 My system's test results in Table.ods<br>
+
+About modified version of quickSort --> In quickSort function with each recursive call, subarray's size is checked<br>
+if it is less than 12 then sorting process will be done with insertionSort.
